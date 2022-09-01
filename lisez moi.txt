@@ -1,0 +1,27 @@
+Mon ordinateur: 
+- Processeur: Core i7-7700 3,6GHz
+- RAM: 16 Go en DDR4
+- Carte mère: Asus strix B250F gaming
+- Carte graphique: EVGA Geforce RTX 2070
+
+Sytème d'exploitation:
+- OS: Windows 10 Professionel 
+- Version: 19041.630
+
+Environnement programmation:
+- Logiciel de programmation: Geany
+- Version: 1.36
+- Compilateur: Free Pascal 
+- Version: 3.2.0
+
+Autres logiciels:
+- Excel
+- Version : 16.0.12527.21330
+- LibreOffice
+- Version : 5.4.5.1
+
+
+Remarque : - tous les exemples et applications ont été réalisé sur le même ordinateur décrit ci-dessus
+	   - la dernière colonne de la matrice nommée lambda correspond au second membre
+	   - l'affichage des x1,x2...xn,lambda se décalle et n'est pas en phase lorsque la taille de la matrice est grande,
+	   c'est le cas pour les exemples d'Hilbert (6,7,8).
